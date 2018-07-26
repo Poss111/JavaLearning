@@ -1,27 +1,27 @@
 # JavaLearning
 ## Excercise One
-####Basics Learned:
+#### Basics Learned:
 
     1. Main Method
     2. System.out.println & System.out.print
     2. Primitive Types (int, boolean)
     3. Conditionals (if, else if, else)
    
-####Assignment
+#### Assignment
     
      Create three seperate if, else if, and else Conditionals with each having a different 
      System.out.println Statement in them. Then, using the Conditional operations, make
      the first if set hit the if Statement, make the second set hit the else if statement,
      and make the third set hit the else statement.
 ## Excercise Two
-####Basics Learned:
+#### Basics Learned:
     
     1. doubles
     2. Order of Operations
     3. Assigning values
     4. Combining Computations with Conditionals
     
-####Assignment
+#### Assignment
 
     Create a computation to compute the area of a Square given an
     int variable named width and a int variable named height. Once you have the
@@ -41,7 +41,7 @@
     this Area of the Square is not divisible by 6.
      
 ## Excercise Three
-####Basics Learned
+#### Basics Learned
 
 ## Excercise Four
-####Basics Learned
+#### Basics Learned
