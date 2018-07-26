@@ -52,10 +52,10 @@ public class ExcerciseTwo {
 		 * Assignmnet 2 :: Create a computation to compute the area of a Square given an
 		 * int variable named width and a int variable named height. Once you have the
 		 * area of the square, save the output value to an int variable named
-		 * areaOfSquare and print this variable out saying "The area of the Square is ::
+		 * areaOfSquare and print this variable out saying "The Area of the Square is ::
 		 * <givenAreaOfSquareVariable>" . Then use the area variable to see if it is a
-		 * multiple of 6. If it is a multiple of 2, print out "This Area of a Square is
-		 * divisible by 6." else "This Area of a Square is not divisible by 6." Hint ::
+		 * multiple of 6. If it is a multiple of 2, print out "This Area of the Square is
+		 * divisible by 6." else "This Area of the Square is not divisible by 6." Hint ::
 		 * Use the operation to give remainders. Estimated time :: 10 min
 		 */
 
