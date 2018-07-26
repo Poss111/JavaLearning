@@ -49,7 +49,7 @@ public class ExcerciseTwo {
 		
 		
 		/**
-		 * Assignmnet 2 :: Create a computation to compute the area of a Square given an
+		 * Assignment 2 :: Create a computation to compute the area of a Square given an
 		 * int variable named width and a int variable named height. Once you have the
 		 * area of the square, save the output value to an int variable named
 		 * areaOfSquare and print this variable out saying "The Area of the Square is ::
