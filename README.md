@@ -63,7 +63,14 @@
     6. Performing operations on the Array
     
 #### Assignment
-    <To be added>
+    Create an array of 10 random numbers. Use a for loop to
+	iterate through the Array and return the maximum number in the Array. Then do
+	the same with a while loop but find the smallest number in the Array. NOTE ::
+	This will require using conditionals.
+	
+	Sample Output (using an Array of 10,8,2,5,6):
+		The maximum number in the Array is 10.
+		The minimum number in the Array is 2.
     
 ## Exercise Five    
 #### Basics Learned
